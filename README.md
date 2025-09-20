@@ -338,15 +338,3 @@ curl -X POST http://localhost:8080/products \
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 **Support**
-
-For questions and support:
-
-- Create an issue in the repository
-- Check the [API Documentation](http://localhost:8080/swagger-ui.html) when running locally
-
----
-
-**Built with ❤️ using Spring Boot 3 and Java 21**
-# ECB
